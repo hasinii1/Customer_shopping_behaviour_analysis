@@ -60,6 +60,9 @@ Streamlit Dashboard
      ↓
 Business Insights & Recommendations
 ```
+---
+# 🚀 Live Demo
+https://customershoppingbehaviouranalysis-hasini.streamlit.app/
 
 ---
 
