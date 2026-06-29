@@ -13,6 +13,10 @@ Analyze customer shopping behavior using **Python, MySQL, Power BI, and Streamli
 </div>
 
 ---
+# 🚀 Live Demo
+https://customershoppingbehaviouranalysis-hasini.streamlit.app/
+
+---
 
 # 📌 Project Overview
 This project focuses on understanding customer shopping behavior through data analysis, SQL querying, business intelligence dashboards, and interactive web applications.
@@ -60,10 +64,6 @@ Streamlit Dashboard
      ↓
 Business Insights & Recommendations
 ```
----
-# 🚀 Live Demo
-https://customershoppingbehaviouranalysis-hasini.streamlit.app/
-
 ---
 
 # 🐍 Python Data Analysis
